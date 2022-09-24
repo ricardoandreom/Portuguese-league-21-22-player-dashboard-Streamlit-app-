@@ -128,6 +128,6 @@ with column9:
 st.write("https://www.linkedin.com/in/ricardoandreom/")
 st.write("Date: 31/08/2022")
 #-----------------------------------------------------------
-#img = Image.open("halfspace_analytics.png")
+#img = Image.open("halfspace_analytics.png") # mylogo in the app
 #st.image(img, width=300)
 #--------------------------------------------------------------
