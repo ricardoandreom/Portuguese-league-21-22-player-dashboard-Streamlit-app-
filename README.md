@@ -10,4 +10,4 @@ To install streamlit on your console:  **pip install streamlit**
 
 To run the app write on your console:  **streamlit run (app_name).py**
 
-You can my app running in: **https://www.instagram.com/p/Ch7y8yijk-k/**
+You can see my app running in: **https://www.instagram.com/p/Ch7y8yijk-k/**
